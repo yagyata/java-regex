@@ -1,4 +1,4 @@
-package BasicRegexProblems;
+package com.bridgelabz.BasicRegexProblems;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
