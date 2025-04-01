@@ -5,7 +5,7 @@ import java.util.regex.Pattern;
 
 public class ValidateLicencePlateNo {
     public static void main(String[] args) {
-        String regex = "^[A-Z]{2}+[0-9]{4}";
+        String regex = "^[A-Z]{2}+[0-9]{4}$";
         Pattern pattern = Pattern.compile(regex);
         String numberPlate = "PB7827";
 
