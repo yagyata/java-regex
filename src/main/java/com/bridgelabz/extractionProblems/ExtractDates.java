@@ -16,3 +16,8 @@ public class ExtractDates {
         }
     }
 }
+
+//Output
+//12/05/2025
+//15/08/2024
+//29/02/2020
